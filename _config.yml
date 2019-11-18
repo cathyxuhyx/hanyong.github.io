@@ -1,10 +1,10 @@
 title: Hanyong Xu # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Urban Planning Enthusiast, 
-  <br><br>
+  Urban Planning Enthusiast, <br>
   Specialized in Spatial Data Analysis
   <br><br>
+  University of Pennsylvania Master of Urban Spatial Analytics'20 
   <a href="https://www.linkedin.com/in/hanyong-xu/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
