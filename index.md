@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Predictive Modeling / Machine Learning 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting House Prices in San Francisco](/rmd/150_final1.html)
+<img src="images/sf_thumb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
