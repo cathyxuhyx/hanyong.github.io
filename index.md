@@ -5,7 +5,7 @@
 ### Predictive Modeling / Machine Learning 
 
 [Predicting House Prices in San Francisco](/rmd/150_final1.html)
-<img src="images/sf_thumb.png?raw=true"/>
+<img src="images/sf_thumb.PNG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
