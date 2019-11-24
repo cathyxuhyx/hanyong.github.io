@@ -12,7 +12,7 @@
 <img src="images/re_thumb.PNG?raw=true"/>
 
 ---
-[Predicting House Prices in San Francisco](/rmd/battery_risk_prediction.html)
+[Predicting Domestic Batteries in Chicago](/rmd/battery_risk_prediction.html)
 <img src="images/ba_thumb.PNG?raw=true"/>
 
 
