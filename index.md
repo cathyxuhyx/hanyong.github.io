@@ -1,31 +1,27 @@
 ## Portfolio
 
----
 
 ### Predictive Modeling / Machine Learning 
 
-[Predicting House Prices in San Francisco](/rmd/150_final1.html)
+---
+[Predicting House Prices in San Francisco](/rmd/house_price_prediction.html)
 <img src="images/sf_thumb.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Algorithimic Fairness in Predicting Recidivism in Broward County](/pdf/recidivism_prediction.pdf)
+<img src="images/re_thumb.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting House Prices in San Francisco](/rmd/battery_risk_prediction.html)
+<img src="images/ba_thumb.PNG?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+### Architecture, Landscape Architecture, Visual Design
 ---
+[Design Projects from Undergrad](https://hanyongxu.wixsite.com/home)
+<img src="images/po_thumb.PNG?raw=true"/>
+
 
 
 
