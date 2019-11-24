@@ -15,9 +15,9 @@
 [Predicting House Prices in San Francisco](/rmd/battery_risk_prediction.html)
 <img src="images/ba_thumb.PNG?raw=true"/>
 
----
 
-### Architecture, Landscape Architecture, Visual Design
+
+### Architecture, Landscape Architecture, and Visual Design
 ---
 [Design Projects from Undergrad](https://hanyongxu.wixsite.com/home)
 <img src="images/po_thumb.PNG?raw=true"/>
