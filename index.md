@@ -12,6 +12,7 @@ _R, Multinomial Logistic Regression Model, App Wireframe, Profit Optimization_
 (It takes a while to load the data visualization, please be patient; if the page displays "Internal Error 500", please refresh the page and the application will load.)  
 _Python, Web Scraping, Twitter API, Sentiment Analysis, Street Network Analysis (Pandana), Machine Learning (Scikit-learn), Data Visualization (Altair, HvPlot, Seaborn, Folium, Panel)_
 <img src="images/street.gif?raw=true"/>
+
 ---
 [Predicting House Prices in San Francisco](/rmd/house_price_prediction.html)  
 _R, OLS Modeling, Spatial Lag_  
