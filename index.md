@@ -16,7 +16,7 @@ _R, OLS Modeling, Spatial Lag_
 [Predicting Food Deserts in Brooklyn and Queens with Interactive Visualizations](https://mybinder.org/v2/gh/adawyj97/Predicting-Food-Deserts.git/master?urlpath=%2Fpanel%2FDataVisualization)  
 (It takes a while to load the data visualization, please be patient; if the page displays "Internal Error 500", please refresh the page and the application will load.)  
 _Python, Web Scraping, Twitter API, Sentiment Analysis, Street Network Analysis (Pandana), Machine Learning (Scikit-learn), Data Visualization (Altair, HvPlot, Seaborn, Folium, Panel)_
-<img src="images/street.PNG?raw=true"/>
+<img src="images/street.gif?raw=true"/>
 
 ---
 [Algorithimic Fairness in Predicting Recidivism in Broward County](/pdf/recidivism_prediction.pdf)
