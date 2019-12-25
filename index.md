@@ -2,6 +2,9 @@
 
 
 ### Predictive Modeling / Machine Learning 
+---
+[Predicting Train Occupancy in Belgium](/rmd/train_occupancy_prediction.html)
+<img src="images/bel.PNG?raw=true"/>
 
 ---
 [Predicting House Prices in San Francisco](/rmd/house_price_prediction.html)
