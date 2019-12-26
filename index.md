@@ -30,8 +30,8 @@ _R, Poisson Regression Model_
 
 ### Environmental Spatial Analysis
 ---
-[Determining Forests Patches for Preservation Using HCSA](/pdf/high_carbon_stock_approach.pdf)
-_Google Earth Engine_
+[Determining Forests Patches for Preservation Using HCSA](/pdf/high_carbon_stock_approach.pdf)  
+_Google Earth Engine_  
 <img src="images/hcsa.PNG?raw=true"/>
 
 
