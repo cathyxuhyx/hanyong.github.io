@@ -17,33 +17,25 @@ _R, OLS Modeling, Spatial Lag_
 <img src="images/sf_thumb.PNG?raw=true"/>  
 
 ---
-<a href="/pdf/recidivism_prediction.pdf" target="_blank">Algorithimic Fairness in Predicting Recidivism in Broward County</a>
-
-[Algorithimic Fairness in Predicting Recidivism in Broward County](/pdf/recidivism_prediction.pdf)
+<a href="/pdf/recidivism_prediction.pdf" target="_blank">Algorithimic Fairness in Predicting Recidivism in Broward County</a>  
 <img src="images/re_thumb.PNG?raw=true"/>
 
 ---
-<a href="/rmd/battery_risk_prediction.html" target="_blank">Domestic Batteries Prediction in Chicago</a>
-
-[Domestic Batteries in Chicago](/rmd/battery_risk_prediction.html)  
+<a href="/rmd/battery_risk_prediction.html" target="_blank">Domestic Batteries Prediction in Chicago</a>  
 _R, Poisson Regression Model_
 <img src="images/ba_thumb.PNG?raw=true"/>
 
 
 ## 2. Environmental Spatial Analysis
 ---
-<a href="/pdf/high_carbon_stock_approach.pdf" target="_blank">Determining Forests Patches for Preservation Using HCSA</a>
-
-[Determining Forests Patches for Preservation Using HCSA](/pdf/high_carbon_stock_approach.pdf)  
+<a href="/pdf/high_carbon_stock_approach.pdf" target="_blank">Determining Forests Patches for Preservation Using HCSA</a>  
 _Google Earth Engine_  
 <img src="images/hcsa.PNG?raw=true"/>
 
 
 ## 3. Architecture, Landscape Architecture, and Visual Design
 ---
-<a href="https://hanyongxu.wixsite.com/home" target="_blank">Design Projects from Undergrad</a>
-
-[Design Projects from Undergrad](https://hanyongxu.wixsite.com/home)
+<a href="https://hanyongxu.wixsite.com/home" target="_blank">Design Projects from Undergrad</a>  
 <img src="images/po_thumb.PNG?raw=true"/>
 
 
