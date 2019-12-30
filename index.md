@@ -4,7 +4,7 @@
 
 ### Predictive Modeling / Machine Learning 
 ---
-[Predicting Train Occupancy in Belgium](/rmd/train_occupancy_prediction.html)  
+[Predicting Train Occupancy in Belgium](/rmd/train_occupancy_prediction.html){target="_blank"} 
 _R, Multinomial Logistic Regression Model, App Wireframe, Profit Optimization_
 <img src="images/from.gif?raw=true"/>
 
