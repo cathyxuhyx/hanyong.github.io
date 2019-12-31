@@ -1,19 +1,3 @@
-<div id="hello-world">
-	<div id="typed-strings" style="display:none">
-		<p>Hi, there! ^1000 <strong>I'm Hanyong.</strong> ^1200 <br> ^200<br> ^200 
-       	Master of Urban Spatial Analytics candidate from University of Pennsylvania</a></strong>. ^1200 <br> ^200<br> ^200
-       	Spatial Data Analyst with <strong>background in design, planning, and economics.</strong> ^1200 <br> ^200<br> ^200 
-       	I'm passionate about using data to </p>
-	</div>
-	<span id="typed-intro"></span><i><span id="intro-end"></span></i>
-<!-- 	<div id="skipped-intro" style="display: none">
-	<p>Hi, there!  <strong>I'm Sajal.</strong>  <br> <br>  
-       	Master of Information Technology graduate from <strong><a target="_blank" href="http://www.unimelb.edu.au/">The University of Melbourne, Australia</a></strong>.  <br> <br> 
-       	Software Engineer with <strong>expertise in Data Science technologies.</strong>  <br> <br>  
-       	I'm passionate about using data to <i>make the world a better place.</i></p>
-	</div> -->
-</div>
-
 
 ## 1. Predictive Modeling / Machine Learning 
 ---
